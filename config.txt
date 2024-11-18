@@ -1,0 +1,3 @@
+spotifyToken=YOUR_SPOTIFY_API_TOKEN
+steamApiKey=YOUR_STEAM_API_KEY
+steamId=YOUR_STEAM_ID
